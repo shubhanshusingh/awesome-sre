@@ -490,8 +490,6 @@ Contributions are always welcome!
 * [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 * [Site Reliability Engineering for Native Mobile Apps - Abhijith Krishnappa](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/) - Case study: Halodoc adaptation of SRE principles for Native Mobile Apps
 * [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
-* [Developer autonomy and Day 2 operations](https://www.exemplar.dev/blog/developer-autonomy-day-two-ops)
-* [Agents, context, and guardrails on a unified platform](https://www.exemplar.dev/blog/agents-context-and-guardrails)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
@@ -516,7 +514,7 @@ Contributions are always welcome!
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
-* [Exemplar Blog](https://www.exemplar.dev/blog) - Reliability, synthetic monitoring, status pages, incident communication, platform engineering, and AI-assisted operations.
+* [Exemplar Blog](https://www.exemplar.dev/blog) - Reliability, synthetic monitoring, status pages, and incident communication.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
